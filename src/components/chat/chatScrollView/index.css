@@ -1,0 +1,19 @@
+.scroll-view {
+    max-height: calc(100vh - 165px); 
+    height: calc(100vh - 165px); 
+    overflow-y: auto; 
+    border: 1px solid #ccc; 
+    padding: 10px; 
+}
+
+#emptyListMessage {
+    color: #969696;
+    text-align: center;
+    font-size: 13px;
+}
+
+@media (max-width: 560px) {
+    .scroll-view {
+        max-height: calc(100vh - 185px); 
+    }
+}

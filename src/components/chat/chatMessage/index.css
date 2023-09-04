@@ -1,0 +1,9 @@
+.message-container {
+    padding-top: .2em;
+    padding-bottom: .8em;
+    border-bottom: .1px solid #bbbbbb;
+}
+
+#usernameChat {
+    font-weight: bold;
+}

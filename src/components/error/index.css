@@ -1,0 +1,25 @@
+.server-connection-error {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.server-connection-error p {
+    margin: 25px 0;
+}
+
+.server-connection-error h1 {
+    font-size: 100px;
+}
+
+.server-connection-error button {
+    padding: 10px 15px;
+    background-color: #6229b2;
+    color: #FFF;
+    border: none;
+    border-radius: 4px;
+    margin: 25px 0;
+}

@@ -1,0 +1,24 @@
+.box-form-chat-message {
+    height: 80px;
+    padding: 0 1em;
+    width: 100vw;
+}
+
+.form-chat-message {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    gap: 1em;
+}
+
+.form-chat-message > input {
+    padding: 10px;
+    width: 100%;
+}
+
+.form-chat-message > button {
+    padding: 10px 50px;
+}
+
