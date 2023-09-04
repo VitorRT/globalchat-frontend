@@ -31,7 +31,7 @@ Para clonar este projeto, siga estas etapas:
 3. Execute o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/globalchat-frontend.git
+git clone https://github.com/VitorRT/globalchat-frontend.git
 ```
 
 
