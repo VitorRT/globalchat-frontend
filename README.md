@@ -41,7 +41,7 @@ Após clonar o projeto, siga estas etapas para iniciar o servidor de desenvolvim
 
 1. Navegue até o diretório do projeto:
 ```bash
-cd fakezap-front-end
+cd globalchat-frontend
 ```
 2. Instale as dependências do projeto:
 ```bash
@@ -51,7 +51,7 @@ npm install
 ```bash
 npm start
 ```
-O servidor de desenvolvimento será iniciado e o FakeZap estará acessível em http://localhost:3000.
+O servidor de desenvolvimento será iniciado e o Global Chat estará acessível em http://localhost:3000.
 
 ## Contribuindo
 Se você deseja contribuir com este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estamos felizes em receber contribuições
