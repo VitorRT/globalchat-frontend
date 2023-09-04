@@ -1,10 +1,10 @@
-# FakeZap Front End
+# Global Chat Front End
 
-Bem-vindo ao FakeZap Front End! Este é o front-end de um aplicativo de mensagens fictício construído com React JS.
+Bem-vindo ao Global Chat Front End! Este é o front-end de um aplicativo de mensagens fictício construído com React JS.
 
 ## Visão Geral
 
-O FakeZap Front End é a interface do usuário para nosso aplicativo de mensagens em tempo real que abre uma conexão full duplex com o back-end também desenvolvido por mim em java utilizando o Spring Framework. O app é inspirado em um aplicativo de mensagens popular. Este projeto demonstra a criação de uma interface de usuário moderna e responsiva com o uso do React JS.
+O Global Chat Front End é a interface do usuário para nosso aplicativo de mensagens em tempo real que abre uma conexão full duplex com o back-end também desenvolvido por mim em java utilizando o Spring Framework. O app é inspirado em um aplicativo de mensagens popular. Este projeto demonstra a criação de uma interface de usuário moderna e responsiva com o uso do React JS.
 
 ## Recursos Principais
 
